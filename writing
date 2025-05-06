@@ -1,0 +1,102 @@
+
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <title> My writing </title>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <link rel="stylesheet" href=/static/info/css/base.css/>
+    
+<link rel="stylesheet" href=/static/info/css/writing_overview.css/>
+
+  </head>
+
+  <body>
+    <div id="container">
+      <header id="header">
+        <div id="nav">
+          <a href=/ class="nav-link">Home</a>
+          <a href=/writing class="nav-link">Writing</a>
+          <a href="https://github.com/luukelvin">Github</a>
+        </div>
+      </header>
+
+      <div id="content">
+        
+<div id="writing-list">
+    <h2> A collection of things I've written (or helped write). </h2>
+
+    <ol>
+    
+    <div class="writing-list-category" id="writing-list-math">
+    <h4> Math </h4>
+    
+    <li>
+    <div class="writing-entry">
+        <p class="writing-brief"><a href=https://ww3.math.ucla.edu/wp-content/uploads/2024/10/UCLA_Math_Genealogy_REU_Report-1.pdf><em>Exploring Patterns in Mathematics Faculty Hiring with Persistent Homology</em></a>. Sep. 2024.  Written with my coauthors Makenna Greenwalt and Ahoora Tamizifar. </p>
+        <p class="writing-desc">Report for UCLA Geometry Topology REU 2024 on Topological Data Analysis under our mentors <a href="https://www.math.ucla.edu/~mason/">Mason Porter</a>, <a href="https://www.sarahtymochko.com/">Sarah Tymochko</a>, and <a href="https://www.svraman.com/">Sidhanth Raman</a>.
+<br>
+This material is based upon work supported by the National Science Foundation under Grant No. 2015553. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.</p>
+    </div>
+    </li>
+    
+    <li>
+    <div class="writing-entry">
+        <p class="writing-brief"><a href=/media/writing/alexander_numbering.pdf><em>A method for computing winding number: the Alexander numbering rule</em></a>. Dec. 2023. </p>
+        <p class="writing-desc">Final paper for the first quarter in the grad complex analysis series (Math 246A) at UCLA. It was taught by Terry Tao. He gave me a good score. :)</p>
+    </div>
+    </li>
+    
+    </div>
+
+    
+    <div class="writing-list-category" id="writing-list-dal">
+    <h4> Digital Archaeology Lab (DAL) </h4>
+    
+    <li>
+    <div class="writing-entry">
+        <p class="writing-brief"><a href=https://dal.ucla.edu/blog/2024/08/05/automating-object-silhouetting-part-2-segment-anything/><em>Automating Object Silhouetting (Part 2: Segment Anything)</em></a>. Aug. 2024. </p>
+        <p class="writing-desc"></p>
+    </div>
+    </li>
+    
+    <li>
+    <div class="writing-entry">
+        <p class="writing-brief"><a href=https://dal.ucla.edu/blog/2024/08/05/automating-object-silhouetting-part-1-thresholding/><em>Automating Object Silhouetting (Part 1: Thresholding)</em></a>. Aug. 2024. </p>
+        <p class="writing-desc"></p>
+    </div>
+    </li>
+    
+    <li>
+    <div class="writing-entry">
+        <p class="writing-brief"><a href=https://dal.ucla.edu/color-calibration-and-white-balancing/><em>Color Calibration and White Balancing</em></a>. May. 2024. </p>
+        <p class="writing-desc"></p>
+    </div>
+    </li>
+    
+    <li>
+    <div class="writing-entry">
+        <p class="writing-brief"><a href=https://dal.ucla.edu/introduction-to-qgis/><em>Introduction to QGIS</em></a>. Oct. 2023. </p>
+        <p class="writing-desc"></p>
+    </div>
+    </li>
+    
+    </div>
+
+     
+    </ol>
+
+
+</div>
+
+
+      </div>
+
+      <footer id="footer">
+          
+      </footer>
+    </div>
+
+  </body>
+
+
+</html>
